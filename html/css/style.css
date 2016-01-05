@@ -1,0 +1,14 @@
+h1 {color: red;
+text-align: left;}
+
+h2 {color: red;
+text-align: left;
+font-style: italic;}
+
+ul {color: red;
+text-align: left;
+font-style: oblique;}
+
+ol {color: red;
+text-align: left;
+font-style: cursive}
