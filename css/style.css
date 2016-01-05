@@ -1,14 +1,14 @@
-h1 {color: #0000ff;
-text-align: center;}
+h1 {color: red;
+text-align: left;}
 
-h2 {color: #0000ff;
-text-align: center;
+h2 {color: red;
+text-align: left;
 font-style: italic;}
 
-ul {color: #0000ff;
-text-align: center;
+ul {color: red;
+text-align: left;
 font-style: oblique;}
 
-ol {color: #0000ff;
-text-align: center;
+ol {color: red;
+text-align: left;
 font-style: cursive}
